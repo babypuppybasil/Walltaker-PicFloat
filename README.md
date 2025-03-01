@@ -4,10 +4,10 @@ THIS IS AN UNOFFICIAL SCRIPT and is no means endorsed by any official moderation
 the hard work of the original creators, and the people that work hard to maintain the site and Discord. 
 
 **WHAT DOES THIS DO?**
--Asks for an ID code (your 5 digit code made on the official site)
--Calls ID to the Walltaker API
--Displays the images on the window very slowly moving, as if photos laid down like a slideshow, overlaying each other.
--Screensaver-like functionality. Sit back and enjoy the gently floating pictures that change every time when a new picture comes in! (15 second checks!) 
+-  Asks for an ID code (your 5 digit code made on the official site)
+-  Calls ID to the Walltaker API
+-  Displays the images on the window very slowly moving, as if photos laid down like a slideshow, overlaying each other.
+-  Screensaver-like functionality. Sit back and enjoy the gently floating pictures that change every time when a new picture comes in! (15 second checks!) 
 
 ---
 
@@ -17,13 +17,13 @@ the hard work of the original creators, and the people that work hard to maintai
 ---
 
 **IMPROVEMENTS IN THE FUTURE**
--Multiple ID's
--Click and Drag Functionality
--Ability to Lock In an ID! (Thank you _3ther!) 
--Make a new Image front and center, then others drifting more off Sides
--Clear after 15 images, or slowly fade them out one by one
--Constrain all images to Window
--Special Credits button for those who tested/helped!
+- Multiple ID's
+- Click and Drag Functionality
+- Ability to Lock In an ID! (Thank you _3ther!) 
+- Make a new Image front and center, then others drifting more off Sides
+- Clear after 15 images, or slowly fade them out one by one
+- Constrain all images to Window
+- Special Credits button for those who tested/helped!
 
 ---
 
