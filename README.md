@@ -16,6 +16,10 @@ the hard work of the original creators, and the people that work hard to maintai
 
 ---
 
+**HOW TO USE**
+- Open In Internet Browser
+- Enjoy!
+
 **IMPROVEMENTS IN THE FUTURE**
 - Multiple ID's
 - Click and Drag Functionality
@@ -24,6 +28,7 @@ the hard work of the original creators, and the people that work hard to maintai
 - Clear after 15 images, or slowly fade them out one by one
 - Constrain all images to Window
 - Special Credits button for those who tested/helped!
+- Chrome extention in future????
 
 ---
 
